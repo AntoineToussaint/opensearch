@@ -1,0 +1,12 @@
+name: opensearch
+version: 0.0.0
+agent:
+    kind: codefly:service
+    name: external-opensearch
+    version: 0.0.1
+    publisher: codefly.dev
+endpoints:
+    - name: tcp
+      visibility: external
+spec:
+    without-ssl: false
