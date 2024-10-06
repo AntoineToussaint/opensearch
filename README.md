@@ -1,5 +1,6 @@
 # Few notes:
 
+See Demo video at `demo.mov`.
 
 ## Code
 
@@ -9,7 +10,8 @@
 
 What it looks like to run:
 
-https://asciinema.org/a/Q5Hxtn5BHon2rx5QKCYHJpA4R
+[![Demo](https://asciinema.org/a/Q5Hxtn5BHon2rx5QKCYHJpA4R.svg)](https://asciinema.org/a/Q5Hxtn5BHon2rx5QKCYHJpA4R)
+
 
 (I need to publish the recent CLI and agents so won't work for you yet)
 
